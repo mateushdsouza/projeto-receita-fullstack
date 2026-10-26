@@ -1,21 +1,34 @@
-<h1 align="center"> Página de Receita </h1>
+# Página de Receita
 
-<p align="center">
-  Projeto desenvolvido com o curso Fullstack da Rocketseat. <br>
-  <strong>Neste projeto o objetivo principal e trabalhar os conceitos básicos de HTML e CSS.</strong>
-</p>
+Página de uma receita de cupcake de café com chantilly, com ingredientes e modo de preparo. Exercício do curso Fullstack da Rocketseat.
 
-<br>
+## Tecnologias
 
-## 🚀 Tecnologias
+HTML e CSS.
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## Como visualizar
 
-- HTML e CSS
-- Git e Github
-- Figma
+```sh
+git clone https://github.com/mateushdsouza/projeto-receita-fullstack.git
+cd projeto-receita-fullstack
+```
 
-## 💻 Projeto
+Abra [index.html](index.html) no navegador. Não é necessário instalar dependências. Fontes externas, quando utilizadas, precisam de internet.
 
-Está página traz um passo a passo de uma receita para cupcakes.
----
+## Organização
+
+- [index.html](index.html): estrutura da página.
+- [style.css](style.css): estilos.
+- [assets/](assets/): imagens e ícones.
+
+## Estado atual e limitações
+
+O nome do repositório faz referência ao curso Fullstack; esta implementação é somente uma página estática.
+
+## Aprendizado
+
+Estruturação de conteúdo em HTML, organização de estilos e composição visual. A presença de uma interface não representa um serviço completo em produção.
+
+## Créditos
+
+Implementação de estudo mantida por [Mateus Henrique de Souza](https://github.com/mateushdsouza). Imagens, marcas e materiais de referência mantêm a autoria de seus respectivos titulares.
