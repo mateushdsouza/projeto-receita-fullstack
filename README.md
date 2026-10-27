@@ -1,12 +1,19 @@
 # Página de Receita
 
+## Acessar no navegador
+
+**[Abrir o projeto](https://mateushdsouza.github.io/projeto-receita-fullstack/)**
+
+Não é necessário clonar o repositório, instalar ferramentas ou baixar arquivos para visualizar a versão publicada.
+
+
 Página de uma receita de cupcake de café com chantilly, com ingredientes e modo de preparo. Exercício do curso Fullstack da Rocketseat.
 
 ## Tecnologias
 
 HTML e CSS.
 
-## Como visualizar
+## Desenvolvimento local (opcional)
 
 ```sh
 git clone https://github.com/mateushdsouza/projeto-receita-fullstack.git
